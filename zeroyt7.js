@@ -4,8 +4,8 @@
 
 //FOLLOW ALL SOSIAL MEDIAML ME
 //YOUTUBE : Zero YT7
-//INSTAGRAM : @Zero_YT7
-//TIKTOK : @_zeroyt7
+//INSTAGRAM : @gamers_2021
+//TIKTOK : @AfifinXy
 //GITHUB : Zero-YT7
 
 let { fetchJson, kyun, fetchText } = require('./lib/fetcher')
@@ -50,10 +50,10 @@ let pendaftar = JSON.parse(fs.readFileSync('./database/user.json'))
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-owner = setting.OwnerNumber
-botname = setting.BotName
+owner = 628974040065
+botname = BotFin
 zerokey = setting.ZeroKey
-ownername = setting.OwnerName
+ownername = AfifinXy
 
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
 
