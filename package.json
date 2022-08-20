@@ -1,6 +1,6 @@
 {
-  "name": "ZEROYT7",
-  "version": "1.0.0",
+  "name": "BotFin",
+  "version": "1.0.1",
   "description": "None",
   "main": "main.js",
   "directories": {
@@ -49,7 +49,7 @@
   "keywords": [
     "Wasu"
   ],
-  "author": "Zero YT7",
+  "author": "BotFin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Zero-YT7/Base-ZeroYT7/issue"
